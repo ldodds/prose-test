@@ -1,0 +1,6 @@
+prose:
+  rooturl: 'static'
+  media: 'public/images'
+  ignore:
+    - ignore
+
